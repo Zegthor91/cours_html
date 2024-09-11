@@ -1,12 +1,29 @@
 # cours_html
-+---[RSA 3072]----+
-|          ooB+. |
-|         o =.+o.+|
-|        . o + ..E|
-|         o   +   |
-|        S   + o :|
-|          oo.Bo|
-|         o.+=.+.|
-|          +..o.+|
-|           .o.ooB|
-+----[SHA256]-----+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-B">
+    <meta name="viewport"content="width=device_width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="">Acceuil</a></li>
+                <li><a href="">A propos</a></li>
+                <li><a href="">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h1> Bienvenue sur ce site ! </h1>
+        <h2> Sommaire </h2>
+    </section>
+
+    <footer>
+        <p>Session vanne</p>
+    </footer>
+</body>
+</html>
